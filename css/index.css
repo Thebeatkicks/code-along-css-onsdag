@@ -103,3 +103,37 @@ img {
     margin: 25px 0;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+
+article {
+    background-color: #f7fafc;
+    padding: 25px;
+    border-radius: 12px;
+
+    margin-top: 35px;
+}
+
+article button {
+    background-color: #ff7791;
+    color: white;
+    border: none;
+    padding: 14px 30px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+footer {
+    background-color: #98cdf4;
+    padding: 40px;
+}
+
+footer p {
+    
+    text-align: center;
+}
+
+footer a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-weight: 600;
+}
